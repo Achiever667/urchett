@@ -238,6 +238,7 @@ nav ul li a:hover{
         padding: 20px;
         border: 1px solid aqua;
         border-radius: 0.3em;
+        z-index: 999;
     }
     .navbar p{
         text-align: right;
@@ -349,7 +350,7 @@ nav ul li a:hover{
     }
     .middle1{
         width: 100%;
-        height: 720vh;
+        height: 420vh;
      padding: 0px 0px 150px 0px;
 
     }
